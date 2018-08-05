@@ -1,0 +1,3 @@
+[submodule "themes/github_list"]
+	path = themes/github_list
+	url = https://github.com/jloh/github_list.git

@@ -1,0 +1,10 @@
+baseURL = "https://jloh-code.netlify.com"
+languageCode = "en-AU"
+title = "jloh.codes"
+theme = "github_list"
+
+[params]
+  description  = "James' [GitHub](https://github.com/jloh) repos"
+  github_repos = [
+    "jloh"
+  ]
