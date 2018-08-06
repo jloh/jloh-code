@@ -4,6 +4,6 @@
     <a id="{{ printf "%s-%.f" .name .id }}" href="{{ .name | absURL }}" title="{{ .full_name }}">{{ .full_name }}</a>
   </div>
   <div class="column col-4 hide-sm"><b>Last updated:</b> {{ dateFormat "02/01/2006" .updated_at }}</div>
-  <div class="column col-sm-2 col-1 text-right"><button class="btn btn-sm repo-button ml-1" data-clipboard-text="{{ .clone_url }}">clone</button></div>
+  <div class="column col-sm-2 col-1 text-right"><button class="btn btn-sm repo-button ml-1" data-clipboard-text="git clone {{ .clone_url }}">clone</button></div>
   <div class="column col-12 col-sm-12">{{ .description }}</div>
 </div>
