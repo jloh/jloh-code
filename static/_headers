@@ -1,0 +1,15 @@
+/
+  X-XSS-Protection: 1; mode=block
+  X-Frame-Options: SAMEORIGIN
+  X-Content-Type-Options: nosniff
+  X-GitHub: jloh
+  X-Twitter: @itsjloh
+  Referrer-Policy: strict-origin-when-cross-origin
+  Link: </js/clipboard.min.js>; rel=preload; as=script
+  Link: </js/buttons.js>; rel=preload; as=script
+  Link: </css/spectre-v0.5.3.min.css>; rel=preload; as=style
+
+# Cache CSS files for a year
+# We'll cache JS files once we can use Hugo Extended on Netlify
+/css/*.css
+  Cache-Control: public, max-age=31536000
