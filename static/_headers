@@ -13,3 +13,6 @@
 # We'll cache JS files once we can use Hugo Extended on Netlify
 /css/*.css
   Cache-Control: public, max-age=31536000
+
+/*
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
