@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/jloh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jloh.codes
+  * I am jloh (https://keybase.io/jloh) on keybase.
+  * I have a public key with fingerprint 51FB 606A 9BFC 9B13 DE11  2803 3310 02A5 64C3 D694
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f003831191d52aa63ff642f126e0688cae264bc1bc695689eb153951ef2beb090a",
+      "fingerprint": "51fb606a9bfc9b13de112803331002a564c3d694",
+      "host": "keybase.io",
+      "key_id": "331002a564c3d694",
+      "kid": "0101c56bd0ee65ff6acffe2e31db3995856df229e9b94ee8521881df729bd47652930a",
+      "uid": "08c559c780b1b3362f6d7375458e5219",
+      "username": "jloh"
+    },
+    "service": {
+      "hostname": "jloh.codes",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1559442003,
+  "expire_in": 157680000,
+  "prev": "54426e882120828e0c3354a65d9459d30af19a6c63b826fe90b2ae56378899d3",
+  "seqno": 89,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUntQVFUcXhaYhk15yMPSAZZbIDob3Hvu3rP3ro6j+RjJWBaYUZyA5T7O3V1c
+dmF3WR4KZYgNEArM+AqKzFECxwjSLBOGR46UA1YOqP1hoETxcKYRzJCH3Usx0x+d
+f86c3+/7vvP9HjUrvRUqr2dbUxbvDaVnet0c5xTp0yDjAMY5hCJMfwDbj5YuZBOQ
+y23abxUwPYYTABdxnKRJgmAIgQIsC0lRhFogEgAiHNI0zyIAtRxPcDxkKEgziCMo
+kqEIJAIOcTiDs5gGE612M3LmOq12tyRLESIHccgynMgzHEEKiCAAjZMkSeA4YCmo
+5UkBMlqJaHG4ZIZkjmNdKM7qkGLSw7Rk73/wy75xgqcgJ+AIQUoyzPKiiAAiCYEj
+GYaiKSiIADCI4RgtQjQFCJomBFEHGE7Q6iAFGHLJd/4/cjRPUQyvo3GO4EgSAhEK
+OlJHaSkaSVRGBrqQ087mIAmdbXNYsBINJkU8Vh7JTZWr+E82jndITZZYuU6H28E7
+bFLc4nbnuvQyz12UKwMLEGf6V8LEWe2C1EGJ4UFOl9Vhx/SEhOTdVlmTkMxptUCa
+kwZDhblWJzJZZQSlgzQuHfkf5JH7LqEgomkgjZVOBTTCeZKktCykBEZLMYJUs0gw
+LOQhydEAiojBOcAiCpI6mmakPCZXlWd3YHqakYyyZknUZTXbWXe+E2Elqgol6aPw
+UinCw6J8qvwvJlf+iP91vmfLxeW181XKO6dQ+QUuRwhXwPOEXV4B47GnKtt2w5nq
+pG+eVb5uGTSbf/p+pig/8zOV7UoaUBSFH7yq+ny+di648aW5y4P3hw/Pdweo3ZPr
++rLCoken72TF9CxWqDVxdH7B/ZCAtD9/3hk1N19dcs0Ymd157ORhW3LSLmVw6VCk
+KWFF8YeaEqAmbqVlbe4IffXEx6d7NBuGX4xbOzgV0V+3JvH6g+ZNr8UtpKxZ3ZSu
+mX3B8CTI71xI26XyVYv0758crZ8cZdsjHo3UP8ouu1yubh1+On1K2AMhQ98Ifbz3
+jtF/c2RHcbH9Sk11ZmdvaEV7w9ctsVzH8UNlb1a2vrXe4Ddx5GnZpYyXa2bXqkXj
+DsNx/+iFiQ6fRKrQfffIdze2/xIDpsBEbPxRc6xhhfLCY1uC8t6OgY1VaWOvTPcq
+hdPGiO7UsHcvBMaczfKtV3+RU/tbV/XZJ2d2juPdBX3E8PzgpOvqH5aQwvG3t10/
+ti8j/q6Pl9+D7pbUrXjzQrkmOKlvYKix4XbI6rza5K5+T1Abq3z+qU/nO7fPj7x3
+sy5z45Qn0pjnvWXfkNugtiWqGmNbvD1le9TXfn1onMr+qkQdv62md3Zloi1aEOpm
+OE3l+nXhZ7rxoA+qS0dXdVnCqgZ0J8/dMjzc7XuodXupPnqkvSzQkvaDOHbiIPVR
+06aphr39AixujhoYy5lL+fZ9S9MbRRvKihO+/Bs=
+=1yMA
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jloh
+
+==================================================================
